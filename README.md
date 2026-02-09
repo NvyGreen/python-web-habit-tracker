@@ -9,6 +9,7 @@ This repo attempts to be used as an actual functional demo, which, in turn, atte
 ## Tech Stack
 Frontend: HTML/CSS
 Backend: Python Flask
+Database: MongoDB
 
 
 ## Features
