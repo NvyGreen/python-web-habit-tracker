@@ -21,9 +21,14 @@ With this application, users can:
 
 ## Running Locally
 To run this project locally:
-1. Download or clone the repository.
-2. Install the required packages listed in requirements.txt.
-3. Start the Flask application and access it through your browser.
+1. Ensure Python (3.9+) is installed on your machine.
+2. Clone the repository and navigate to the project directory.
+3. Create and activate a virtual environment, then install the required dependencies.
+4. Configure any required environment variables (if applicable).
+5. The application uses MongoDB for data storage (local instance required).
+6. Start the Flask development server.
+7. Open the application in your browser at http://127.0.0.1:5000.
+8. You should now be able to create habits, mark daily completion, and view progress in the calendar view.
 
 
 ## Future Improvements
