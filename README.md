@@ -1,22 +1,22 @@
 # [Habit Tracker](https://python-web-habit-tracker-9vit.onrender.com)
-This project is a web-based application for tracking habits that aims to assist users in the development and maintenance of positive personal habits. The software offers a simple graphical tool for users to establish personal goals.
+A web-based habit tracking application that helps users build and maintain positive daily habits through a simple, calendar-based interface.
 
-This would allow users to reflect on their consistency and change habits by seeing these behaviors play out on a calendar design. The focus for the project would be on making it clear and easy to use, and to track meaningful progress rather than relying on complex analysis or use of gamification techniques.
+Users can create personalized habits, mark daily completion, and visually track consistency over time using a calendar view. The application prioritizes clarity and ease of use, focusing on meaningful progress rather than complex analytics or gamification.
 
-This repo attempts to be used as an actual functional demo, which, in turn, attempts to be used as a demonstration of one’s skills in frontend and full-stack development.
+This project serves as a functional full-stack demo showcasing frontend UI design and backend development using Python and Flask.
 
 
 ## Tech Stack
-Frontend: HTML/CSS
-Backend: Python Flask
+Frontend: HTML/CSS  
+Backend: Python (Flask)  
 Database: MongoDB
 
 
 ## Features
 With this application, users can:
-* Create and manage a personalized list of daily habits
-* Mark habits as completed on a day-by-day basis
-* Navigate a calendar view to review past activity and completion history
+- Create and manage a personalized list of daily habits
+- Mark habits as completed on a day-by-day basis
+- View habit consistency and completion history using a calendar-based interface
 
 
 ## Running Locally
