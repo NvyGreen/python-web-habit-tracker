@@ -12,11 +12,15 @@ Backend: Python (Flask)
 Database: MongoDB
 
 
-## Features
+## Key Features
 With this application, users can:
 - Create and manage a personalized list of daily habits
 - Mark habits as completed on a day-by-day basis
 - View habit consistency and completion history using a calendar-based interface
+
+
+## Screenshots
+<img src="screenshots/homepage.png" alt="Homepage" width=500> <img src="screenshots/add-habit.png" alt="Add Habit Page" width=500>
 
 
 ## Running Locally
